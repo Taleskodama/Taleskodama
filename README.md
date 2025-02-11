@@ -39,24 +39,21 @@ Me chamo Tales Kodama, tenho 19 anos e sou natural de São Paulo. Concluí o ens
 <br/>
 
 ### 📊 Estatísticas
-<table align="center">
-  <tr>
-    <td>
-      <img 
+
+<p>
+  <img 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 100px;" 
     src="https://github-readme-stats.vercel.app/api?username=taleskodama&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-    </td>
-    <td>
-     <img 
+
+<img 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=taleskodama&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-    </td>
-  </tr>
-</table>
 
-
+</p>
