@@ -14,7 +14,8 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
+          SHOW_TITLE: true 
+          CUSTOM_TITLE: "💻 Estatísticas de Programação (WakaTime)"
           SHOW_TOTAL: true
           SHOW_TIME: true
           TIME_RANGE: last_30_days
