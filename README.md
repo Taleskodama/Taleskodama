@@ -60,6 +60,8 @@ Me chamo Tales Kodama, tenho 19 anos e sou natural de São Paulo. Concluí o ens
 <!--START_SECTION:waka-->
 
 ```txt
+From: 02 July 2025 - To: 01 August 2025
+
 Total Time: 13 hrs 54 mins
 
 HTML         5 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   36.58 %
