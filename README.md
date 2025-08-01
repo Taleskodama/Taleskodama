@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Tales Kodama
 
-**`Desenvolvedora FullStack`**
+**`Full-Stack Developer`**
 
 I'm Tales Kodama, a 20-year-old from São Paulo. I am currently pursuing a degree in Computer Engineering at the Federal University of Itajubá (UNIFEI). I am passionate about technology, programming, and innovation, with a strong curiosity for how systems are built. I thrive on working on hands-on projects and challenges that foster my professional growth.
 
