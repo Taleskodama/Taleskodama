@@ -2,13 +2,15 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Executa todos os dias à meia-noite
-  workflow_dispatch:   # Permite que você execute manualmente
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Atualiza o Readme com as Estatísticas do WakaTime
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
