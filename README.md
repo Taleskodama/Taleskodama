@@ -57,3 +57,6 @@ Me chamo Tales Kodama, tenho 19 anos e sou natural de São Paulo. Concluí o ens
   </tr>
 </table>
 ### 📊 Estatísticas de Programação (WakaTime)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
