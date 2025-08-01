@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Tales Kodama, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Seb Lafaiete. Atualmente, estou cursando Engenharia de Computação na UNIFEI. Sou apaixonado por tecnologia, programação e inovação. Sempre fui curioso sobre tecnologia e como sistemas são construídos. Gosto de trabalhar em projetos práticos e desafios que me ajudem a crescer profissionalmente.
+I'm Tales Kodama, a 20-year-old from São Paulo. I am currently pursuing a degree in Computer Engineering at the Federal University of Itajubá (UNIFEI). I am passionate about technology, programming, and innovation, with a strong curiosity for how systems are built. I thrive on working on hands-on projects and challenges that foster my professional growth.
 
 <p align="center">
   <a href="https://www.instagram.com/taleskodama">
@@ -22,7 +22,7 @@ Me chamo Tales Kodama, tenho 19 anos e sou natural de São Paulo. Concluí o ens
 
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -36,7 +36,7 @@ Me chamo Tales Kodama, tenho 19 anos e sou natural de São Paulo. Concluí o ens
 </p>
 
 
-### 📊 Estatísticas
+### 📊 Stats
 <table align="center">
   <tr>
     <td>
@@ -58,7 +58,7 @@ Me chamo Tales Kodama, tenho 19 anos e sou natural de São Paulo. Concluí o ens
 </table>
 <div align="center">
 
-### 💻 Estatísticas de Programação (WakaTime)
+### 💻 Programming Stats (WakaTime)
 <!--START_SECTION:waka-->
 
 ```txt
