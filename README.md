@@ -60,11 +60,15 @@ Me chamo Tales Kodama, tenho 19 anos e sou natural de São Paulo. Concluí o ens
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         3 hrs 52 mins   ████████████░░░░░░░░░░░░░   48.42 %
-JavaScript   2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
-CSS          1 hr 51 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
-C#           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+From: 02 July 2025 - To: 01 August 2025
+
+Total Time: 13 hrs 54 mins
+
+HTML         5 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   36.58 %
+Python       4 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.15 %
+JavaScript   2 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+CSS          1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+C#           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
