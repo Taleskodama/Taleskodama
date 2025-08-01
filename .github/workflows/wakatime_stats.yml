@@ -13,3 +13,19 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # As opções abaixo são para customizar o que aparece no seu perfil.
+          
+          # Mostra um título acima das estatísticas. (Default: false)
+          SHOW_TITLE: true 
+          
+          # Mostra o tempo total de programação no período. (Default: false)
+          SHOW_TOTAL: true
+          
+          # Mostra o tempo ao lado da porcentagem para cada linguagem. (Default: false)
+          SHOW_TIME: true
+          
+          # Define o período das estatísticas. Opções: last_7_days, last_30_days, last_6_months, last_year. (Default: last_7_days)
+          TIME_RANGE: last_30_days
+          
+          # Limita o número de linguagens que aparecem na lista.
+          LANG_COUNT: 5
