@@ -9,10 +9,12 @@ jobs:
   update-readme:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true 
           SHOW_TOTAL: true
