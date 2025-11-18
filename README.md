@@ -63,15 +63,15 @@ I'm Tales Kodama, a 20-year-old from São Paulo. I am currently pursuing a degre
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2025 - To: 15 November 2025
+From: 17 October 2025 - To: 16 November 2025
 
-Total Time: 21 hrs 27 mins
+Total Time: 20 hrs 39 mins
 
-Python            13 hrs 14 mins  ███████████████▒░░░░░░░░░   61.70 %
-Java              5 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
-Text              44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-TypeScript        43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-HTML              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Python            11 hrs 56 mins  ██████████████▒░░░░░░░░░░   57.84 %
+Java              5 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+Markdown          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+TypeScript        43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+HTML              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
