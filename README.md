@@ -1,8 +1,17 @@
-# 👩🏻‍💻 Tales Kodama
+# 👨‍💻 Tales Araújo Kodama
 
-**`Full-Stack Developer`**
+**Desenvolvedor de Software | Graduando em Engenharia de Computação na UNIFEI** 
 
-I'm Tales Kodama, a 20-year-old from São Paulo. I am currently pursuing a degree in Computer Engineering at the Federal University of Itajubá (UNIFEI). I am passionate about technology, programming, and innovation, with a strong curiosity for how systems are built. I thrive on working on hands-on projects and challenges that foster my professional growth.
+Desenvolvedor focado em **Backend (Java/Spring Boot)** e
+**graduando em Engenharia de Computação na UNIFEI**.
+Combino experiência no desenvolvimento de soluções
+escaláveis com um forte interesse em Ciência de Dados.
+Busco aplicar boas práticas de engenharia de software na
+construção de sistemas robustos e orientados a dados.
+
+- 🎓 Cursando Engenharia de Computação na UNIFEI (2023 - 2027).
+- 🌍 Inglês Avançado (C1 - EF SET e CCAA) | Espanhol Intermediário.
+- 📍 Itajubá, MG.
 
 <p align="center">
   <a href="https://www.instagram.com/taleskodama">
@@ -19,22 +28,18 @@ I'm Tales Kodama, a 20-year-old from São Paulo. I am currently pursuing a degre
 </p>
 
 
+### 🛠️ Tecnologias e Ferramentas
 
+- **Backend:** Java (Spring Boot), Node.js (Express), Python, TypeScript, JavaScript.
+- **Frontend:** Angular, React, Tailwind CSS, HTML5, CSS3.
+- **Dados & Infra:** PostgreSQL, MongoDB, Docker (Noções), Linux.
+- **Design & Prototipagem:** Figma (UI/UX).
 
+### 🚀 Projetos em Destaque
 
-### 🤖 Languages and Technologies
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p>
+- **API de Gestão Clínica Médica:** API REST desenvolvida com **Java Spring Boot**, utilizando Spring Security/JWT para autenticação e padronização com DTOs.
+- **Detecção de Cédulas Falsas (ML):** Projeto de Machine Learning comparando modelos (SVM, MLP, Árvores) para análise de fraudes, focando em métricas de Acurácia e F1-Score.
+- **Sistemas Full Stack na Asimov Jr.:** Desenvolvimento de aplicações utilizando Angular, Tailwind e Node.js, com foco em performance e experiência do usuário.
 
 
 #### 📊 Stats
@@ -75,4 +80,5 @@ HTML                       6 hrs 8 mins    █░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </div>
+
 
