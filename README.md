@@ -67,15 +67,15 @@ construção de sistemas robustos e orientados a dados.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 31 December 2025
+From: 02 January 2025 - To: 02 January 2026
 
-Total Time: 168 hrs 38 mins
+Total Time: 170 hrs
 
-Python                     66 hrs 21 mins  █████████▓░░░░░░░░░░░░░░░   39.23 %
-JavaScript                 39 hrs 13 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
-Java                       28 hrs 7 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-TypeScript                 11 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-HTML                       6 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Python                     66 hrs 21 mins  █████████▓░░░░░░░░░░░░░░░   38.92 %
+JavaScript                 39 hrs 13 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+Java                       29 hrs 14 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+TypeScript                 11 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+HTML                       6 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
