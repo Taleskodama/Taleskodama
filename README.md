@@ -1,16 +1,13 @@
 # 👨‍💻 Tales Araújo Kodama
 
-**Desenvolvedor de Software | Graduando em Engenharia de Computação na UNIFEI** 
+**Software Developer | Computer Engineering Student at UNIFEI** Software developer focused on **Backend (Java/Spring Boot)** and 
+**undergraduate student in Computer Engineering at UNIFEI**. 
+I combine experience in developing scalable solutions with a strong 
+interest in Data Science. I seek to apply software engineering best 
+practices in building robust and data-driven systems.
 
-Desenvolvedor focado em **Backend (Java/Spring Boot)** e
-**graduando em Engenharia de Computação na UNIFEI**.
-Combino experiência no desenvolvimento de soluções
-escaláveis com um forte interesse em Ciência de Dados.
-Busco aplicar boas práticas de engenharia de software na
-construção de sistemas robustos e orientados a dados.
-
-- 🎓 Cursando Engenharia de Computação na UNIFEI (2023 - 2027).
-- 🌍 Inglês Avançado (C1 - EF SET e CCAA) | Espanhol Intermediário.
+- 🎓 Pursuing a degree in Computer Engineering at UNIFEI (2023 - 2027).
+- 🌍 Advanced English (C1 - EF SET and CCAA) | Intermediate Spanish.
 - 📍 Itajubá, MG.
 
 <p align="center">
@@ -18,7 +15,7 @@ construção de sistemas robustos e orientados a dados.
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in//taleskodama">
+  <a href="https://www.linkedin.com/in/taleskodama">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
@@ -28,18 +25,18 @@ construção de sistemas robustos e orientados a dados.
 </p>
 
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack & Tools
 
 - **Backend:** Java (Spring Boot), Node.js (Express), Python, TypeScript, JavaScript.
 - **Frontend:** Angular, React, Tailwind CSS, HTML5, CSS3.
-- **Dados & Infra:** PostgreSQL, MongoDB, Docker (Noções), Linux.
-- **Design & Prototipagem:** Figma (UI/UX).
+- **Data & Infra:** PostgreSQL, MongoDB, Docker (Basics), Linux.
+- **Design & Prototyping:** Figma (UI/UX).
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-- **API de Gestão Clínica Médica:** API REST para gestão de clínicas médicas desenvolvida com Spring Boot 3. Implementa autenticação JWT, controle de agendamentos com regras de negócio baseadas em SOLID, e documentação completa via Swagger/OpenAPI.
-- **Detecção de Cédulas Falsas (ML):** Projeto de Machine Learning comparando modelos (SVM, MLP, Árvores) para análise de fraudes, focando em métricas de Acurácia e F1-Score.
-- **Sistemas Full Stack na Asimov Jr.:** Desenvolvimento de aplicações utilizando Angular, Tailwind e Node.js, com foco em performance e experiência do usuário.
+- **Clinical Management API:** REST API for medical clinic management developed with Spring Boot 3. Implements JWT authentication, appointment control with business rules based on SOLID principles, and complete documentation via Swagger/OpenAPI.
+- **Fake Banknote Detection (ML):** Machine Learning project comparing models (SVM, MLP, Trees) for fraud analysis, focusing on Accuracy and F1-Score metrics.
+- **Full Stack Systems at Asimov Jr.:** Development of applications using Angular, Tailwind, and Node.js, focusing on performance and user experience.
 
 
 #### 📊 Stats
@@ -49,12 +46,12 @@ construção de sistemas robustos e orientados a dados.
       <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=taleskodama&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=taleskodama&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
       />
     </td>
     <td>
       <img 
-        alt="Tecnologias" 
+        alt="Top Languages" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=taleskodama&theme=tokyonight&layout=compact&langs_count=9" 
       />
@@ -64,8 +61,6 @@ construção de sistemas robustos e orientados a dados.
 <div align="center">
 
 ### 💻 Programming Stats (WakaTime)
-<!--START_SECTION:waka-->
-
 ```txt
 From: 02 January 2025 - To: 02 January 2026
 
@@ -76,9 +71,3 @@ JavaScript                 39 hrs 13 mins  █████▓░░░░░░�
 Java                       29 hrs 14 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
 TypeScript                 11 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 HTML                       6 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-```
-
-<!--END_SECTION:waka-->
-</div>
-
-
