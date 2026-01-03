@@ -37,7 +37,7 @@ construção de sistemas robustos e orientados a dados.
 
 ### 🚀 Projetos em Destaque
 
-- **API de Gestão Clínica Médica:** API REST desenvolvida com **Java Spring Boot**, utilizando Spring Security/JWT para autenticação e padronização com DTOs.
+- **API de Gestão Clínica Médica:** API REST para gestão de clínicas médicas desenvolvida com Spring Boot 3. Implementa autenticação JWT, controle de agendamentos com regras de negócio baseadas em SOLID, e documentação completa via Swagger/OpenAPI.
 - **Detecção de Cédulas Falsas (ML):** Projeto de Machine Learning comparando modelos (SVM, MLP, Árvores) para análise de fraudes, focando em métricas de Acurácia e F1-Score.
 - **Sistemas Full Stack na Asimov Jr.:** Desenvolvimento de aplicações utilizando Angular, Tailwind e Node.js, com foco em performance e experiência do usuário.
 
