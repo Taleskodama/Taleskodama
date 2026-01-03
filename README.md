@@ -46,14 +46,14 @@ practices in building robust and data-driven systems.
       <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=taleskodama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en" 
+        src="https://github-readme-stats.vercel.app/api?username=taleskodama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" 
       />
     </td>
     <td>
       <img 
         alt="Top Languages" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=taleskodama&theme=tokyonight&layout=compact&langs_count=9&locale=en" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=taleskodama&theme=tokyonight&layout=compact&langs_count=9&v=1" 
       />
     </td>
   </tr>
