@@ -28,7 +28,7 @@ practices in building robust and data-driven systems.
 ### 🛠️ Tech Stack & Tools
 
 - **Backend:** Java (Spring Boot), Node.js (Express), Python, TypeScript, JavaScript.
-- **Frontend:** Angular, React, Tailwind CSS, HTML5, CSS3.
+- **Frontend:** React, Angular, Tailwind CSS, HTML5, CSS3.
 - **Data & Infra:** PostgreSQL, MongoDB, Docker (Basics), Linux.
 - **Design & Prototyping:** Figma (UI/UX).
 
