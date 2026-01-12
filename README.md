@@ -38,28 +38,6 @@ practices in building robust and data-driven systems.
 - **Fake Banknote Detection (ML):** Machine Learning project comparing models (SVM, MLP, Trees) for fraud analysis, focusing on Accuracy and F1-Score metrics.
 - **Full Stack Systems at Asimov Jr.:** Development of applications using Angular, Tailwind, and Node.js, focusing on performance and user experience.
 
-
-#### 📊 Stats
-<table align="center">
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=taleskodama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="Top Languages" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=taleskodama&theme=tokyonight&layout=compact&langs_count=9&v=1" 
-      />
-    </td>
-  </tr>
-</table>
-<div align="center">
-
 ### 💻 Programming Stats (WakaTime)
 
 <!--START_SECTION:waka-->
