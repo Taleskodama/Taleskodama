@@ -61,3 +61,7 @@ practices in building robust and data-driven systems.
 <div align="center">
 
 ### 💻 Programming Stats (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
