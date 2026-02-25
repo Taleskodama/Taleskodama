@@ -43,7 +43,7 @@ practices in building robust and data-driven systems.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 23 February 2026
+From: 24 February 2025 - To: 24 February 2026
 
 Total Time: 181 hrs
 
