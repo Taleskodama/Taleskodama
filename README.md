@@ -43,15 +43,15 @@ practices in building robust and data-driven systems.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2025 - To: 02 July 2026
+From: 03 July 2025 - To: 03 July 2026
 
-Total Time: 196 hrs 11 mins
+Total Time: 192 hrs 42 mins
 
-Python                     63 hrs 28 mins        ████████░░░░░░░░░░░░░░░░░   32.21 %
-JavaScript                 39 hrs 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.26 %
-Java                       35 hrs                ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
-TypeScript                 27 hrs 34 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-HTML                       7 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Python                     60 hrs                ███████▓░░░░░░░░░░░░░░░░░   31.00 %
+JavaScript                 39 hrs 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 %
+Java                       35 hrs                ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+TypeScript                 27 hrs 34 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+HTML                       7 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
